@@ -42,18 +42,3 @@ Passionate about turning ideas into reliable digital experiences.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athar2022&layout=compact" height="160"/>
 </p>
 
----
-
-<h3>🏆 Highlights</h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=athar2022&margin-w=10&no-frame=true"/>
-</p>
-
----
-
-<h3>☕ Support My Work</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/Athar2022">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"/>
-  </a>
-</p>
